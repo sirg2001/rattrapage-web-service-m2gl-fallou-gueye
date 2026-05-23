@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "authenticationType": "jwt",
+    "baseName": "gateway",
+    "buildTool": "maven",
+    "cacheProvider": null,
+    "clientFramework": "no",
+    "clientTestFrameworks": null,
+    "clientTheme": null,
+    "creationTimestamp": 1779541218519,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": null,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "MTNkZTdlYzBjMTJiNGIyNDkxYjM1ZmMwNDNhOWVjNGViZjg5YmU1M2U5NjUwYTgxMzZlOTczYzBkNjcyMmZhMzg1NGFhZGFkZjIyZWRmZjZlNDI3NjliNGE2ODU5MTQ2NDk3OGIzODU5YWYxYTVhNTJiYTM1YTdlYzM4NTYyMzM=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.groupeisi.gateway",
+    "prodDatabaseType": "mysql",
+    "reactive": true,
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": null
+  }
+}

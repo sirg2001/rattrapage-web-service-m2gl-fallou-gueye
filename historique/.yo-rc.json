@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "historique",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "no",
+    "clientTestFrameworks": null,
+    "clientTheme": null,
+    "creationTimestamp": 1779542959672,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": false,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "OWM4YjA3ZWMxNWM1ZjM2ZjVmOGRiY2ExOGY3NTM0Y2ExODg4YzcwZTI3NTJlZmY2OWMwN2YxNmNjYmM2YjQzZWJhNDJkYWRjYzFlOGFmMTcwODJlYzNiM2IwN2I3NThhNzRlOGQ5YTAxYTNkNjk0ZWMyZmQzMTIyZGMzNmY1ZmM=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.groupeisi.historique",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": "8082",
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": null
+  }
+}

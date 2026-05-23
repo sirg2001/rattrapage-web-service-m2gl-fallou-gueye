@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "baseName": "calendar",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "no",
+    "clientTestFrameworks": null,
+    "clientTheme": null,
+    "creationTimestamp": 1779542165619,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "feignClient": true,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "ZDQ4NzAxODUyZmVmMTcwMTE5OWE0YTFhNGYxNGY3YTYxYjcwZGQzOGNjMTViZmZmOTFhYTNiZTM5NjczNzQ5ODlkMDNiZDg1NmU5NWFiOWZjY2NhNWE5Nzg2ZDdmMDdmNDhhZTQ4ZmQ0Yzk5MDcyZDRjNDQyNTdkZDRiM2I5Mzg=",
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.groupeisi.calendar",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": null
+  }
+}

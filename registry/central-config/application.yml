@@ -1,0 +1,6 @@
+jhipster:
+  security:
+    authentication:
+      jwt:
+        base64-secret: Y2hhbmdlLXRoaXMtdG8tYS1zZWNyZXQta2V5LWZvci1KV1QtdG9rZW5zLWluLXByb2R1Y3Rpb24tZW52aXJvbm1lbnQ=
+        token-validity-in-seconds: 86400
